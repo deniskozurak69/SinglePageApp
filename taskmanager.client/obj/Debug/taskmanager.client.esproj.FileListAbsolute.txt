@@ -1,0 +1,3 @@
+C:\Users\denis\source\repos\TaskManager\taskmanager.client\obj\Debug\taskmanager.client.esproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\TaskManager v2\taskmanager.client\obj\Debug\taskmanager.client.esproj.CoreCompileInputs.cache
+D:\Desktop copy\веб\F5\taskmanager.client\obj\Debug\taskmanager.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,313 @@
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.exe
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.deps.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.runtimeconfig.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.pdb
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfo.cs
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\scopedcss\bundle\TaskManager.Server.styles.css
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskMana.065D7FE0.Up2Date
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\refint\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.pdb
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.genruntimeconfig.cache
+C:\Users\denis\source\repos\TaskManager\TaskManager.Server\obj\Debug\net8.0\ref\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.exe
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.deps.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.runtimeconfig.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.pdb
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfo.cs
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManager.Server.props
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\scopedcss\bundle\TaskManager.Server.styles.css
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskMana.065D7FE0.Up2Date
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\refint\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.pdb
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.genruntimeconfig.cache
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\obj\Debug\net8.0\ref\TaskManager.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denis\source\repos\TaskManager v2\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\appsettings.json
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\spa.proxy.json
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.exe
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.deps.json
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.runtimeconfig.json
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\TaskManager.Server.pdb
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Azure.Core.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Azure.Identity.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.AssemblyReference.cache
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\spa.proxy.json
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfoInputs.cache
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.AssemblyInfo.cs
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.csproj.CoreCompileInputs.cache
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManager.Server.props
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManager.Server.props
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManager.Server.props
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\scopedcss\bundle\TaskManager.Server.styles.css
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskMana.065D7FE0.Up2Date
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\refint\TaskManager.Server.dll
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.pdb
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\TaskManager.Server.genruntimeconfig.cache
+D:\Desktop copy\веб\F5\TaskManager.Server\obj\Debug\net8.0\ref\TaskManager.Server.dll

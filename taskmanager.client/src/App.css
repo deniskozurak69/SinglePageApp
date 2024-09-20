@@ -1,0 +1,48 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.task-title {
+    flex: 1;
+    font-weight: bold;
+}
+
+.task-description {
+    flex: 2;
+    padding-left: 10px;
+}
+
+.task-status {
+    flex: 1;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-style: italic;
+}
+
+.task-deadline {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input[type="text"] {
+    margin-right: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
